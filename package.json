@@ -1,0 +1,24 @@
+{
+  "name": "lqc_js_package",
+  "version": "1.0.0",
+  "description": "lqc test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvirgo/lqc_js_package.git"
+  },
+  "keywords": [
+    "lqc",
+    "test",
+    "npm"
+  ],
+  "author": "lqc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvirgo/lqc_js_package/issues"
+  },
+  "homepage": "https://github.com/qvirgo/lqc_js_package#readme"
+}
