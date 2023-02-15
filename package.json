@@ -1,6 +1,6 @@
 {
   "name": "lqc_js_package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lqc test npm package",
   "type": "module",
   "engines": {
@@ -8,7 +8,8 @@
   },
   "main": "index.js",
   "dependencies": {
-    "big.js": "^6.2.1"
+    "big.js": "^6.2.1",
+    "lqc_js_package": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
